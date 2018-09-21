@@ -1,0 +1,13 @@
+{
+	"extensionName": {
+		"message": "Maximize/Restore Window Button",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Toolbar button to maximize/restore current window",
+		"description": "Description of the extension."
+	},
+	"actionTitle": {
+		"message": "Maximize/Restore Window"
+	}
+}

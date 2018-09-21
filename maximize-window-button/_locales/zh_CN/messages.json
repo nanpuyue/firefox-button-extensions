@@ -1,0 +1,13 @@
+{
+	"extensionName": {
+		"message": "最大化/还原窗口按钮",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "最大化/还原窗口的工具栏按钮",
+		"description": "Description of the extension."
+	},
+	"actionTitle": {
+		"message": "最小化/还原窗口"
+	}
+}

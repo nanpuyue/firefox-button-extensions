@@ -1,0 +1,13 @@
+{
+	"extensionName": {
+		"message": "Minimize Window Button",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Toolbar button to minimize current window",
+		"description": "Description of the extension."
+	},
+	"actionTitle": {
+		"message": "Minimize Window"
+	}
+}

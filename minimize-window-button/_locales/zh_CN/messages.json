@@ -1,0 +1,13 @@
+{
+	"extensionName": {
+		"message": "最小化窗口按钮",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "最小化窗口的工具栏按钮",
+		"description": "Description of the extension."
+	},
+	"actionTitle": {
+		"message": "最小化窗口"
+	}
+}
